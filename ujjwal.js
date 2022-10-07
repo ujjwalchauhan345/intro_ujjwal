@@ -1,1 +1,1 @@
-Document.getElementByIdtftyvr76fyivr76dftvu6f6vtfucr76vfyu
+Document.getElementById
